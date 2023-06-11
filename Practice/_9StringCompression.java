@@ -17,7 +17,7 @@ public class _9StringCompression {
         return sb.toString();
     }
     public static void main(String args[]){
-        String str1 = "aaabbccc";
+        String str1 = "aaabbcccddd";
         String str2 = "abc";
         System.out.println(compressString(str1));
     }
