@@ -1,0 +1,5 @@
+{
+    "outline.problems.colors": true,
+    "outline.problems.enabled": true,
+    "C_Cpp.errorSquiggles": "disabled"
+}

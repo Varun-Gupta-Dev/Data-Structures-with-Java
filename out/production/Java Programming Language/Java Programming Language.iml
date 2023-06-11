@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/13_Arraysinjava" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/14_Sorting_Algorithms_Java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/15_2D_Arrays" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/16_StringsInJava" isTestSource="false" packagePrefix="StringsInJava" />
+      <sourceFolder url="file://$MODULE_DIR$/18_OOPS" isTestSource="false" packagePrefix="OOPS" />
+      <sourceFolder url="file://$MODULE_DIR$/19_Recursion" isTestSource="false" packagePrefix="Recursion" />
+      <sourceFolder url="file://$MODULE_DIR$/20_Divide_and_Conquer" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/22_Backtracking" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/23_ArrayList_java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/24_LinkedList" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/26_Stacks" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/27_Queues" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/28_Greedy_Algorithms" isTestSource="false" packagePrefix="Greedy_Algorithms" />
+      <sourceFolder url="file://$MODULE_DIR$/29_BinaryTrees_Part1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/30_BinaryTrees_Part2" isTestSource="false" packagePrefix="BinaryTrees_Part2" />
+      <sourceFolder url="file://$MODULE_DIR$/31_BinaryTrees_Part3" isTestSource="false" packagePrefix="BinaryTrees_Part3" />
+      <sourceFolder url="file://$MODULE_DIR$/32_BinarySearchTree_Part1" isTestSource="false" packagePrefix="BinarySearchTree_Part1" />
+      <sourceFolder url="file://$MODULE_DIR$/33_BinarySearchTree_Part2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/34_Heaps" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/35_Hashing" isTestSource="false" packagePrefix="Hashing" />
+      <sourceFolder url="file://$MODULE_DIR$/36_Tries" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/37_41_Graphs" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/43_Dynamic_Programming_Part1" isTestSource="false" packagePrefix="Dynamic_Programming_Part1" />
+      <sourceFolder url="file://$MODULE_DIR$/44_Dynamic_Programming_Part2" isTestSource="false" packagePrefix="Dynamic_Programming_Part2" />
+      <sourceFolder url="file://$MODULE_DIR$/45_Dynamic_Programming_Part3" isTestSource="false" packagePrefix="Dynamic_Programming_Part3" />
+      <sourceFolder url="file://$MODULE_DIR$/46_Dynamic_Programming_Part4" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/47_Dynamic_Programming_Part5" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/48_Dynamic_Programming_Part6" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/49_Segment_Trees" isTestSource="false" packagePrefix="Segment_Trees" />
+      <sourceFolder url="file://$MODULE_DIR$/DSTL_lab" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Other_Programs" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
