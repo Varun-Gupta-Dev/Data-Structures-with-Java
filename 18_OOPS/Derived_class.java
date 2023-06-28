@@ -1,4 +1,4 @@
-package OOPS;
+
 
 public class Derived_class {
     public static void main(String args[]){

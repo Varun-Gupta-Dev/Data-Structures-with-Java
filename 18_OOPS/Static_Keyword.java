@@ -1,4 +1,4 @@
-package OOPS;
+
 
 public class Static_Keyword {
     public static void main(String args[]){
@@ -6,7 +6,7 @@ public class Static_Keyword {
         s1.schoolName = "OLF";
 
         Student s2 = new Student();
-        // System.out.println(s2.schoolName);
+        System.out.println(s2.schoolName);
 
         Student s3 = new Student();
         s3.schoolName = "St.Fidelis";

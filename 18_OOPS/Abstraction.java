@@ -2,6 +2,7 @@
 
 public class Abstraction {
     public static void main(String args[]){
+        
         Mustang myHorse = new Mustang();
 
         // Chicken c = new Chicken();

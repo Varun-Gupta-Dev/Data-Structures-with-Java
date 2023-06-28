@@ -1,8 +1,9 @@
-package OOPS;
+
 
 public class Super_Keyword {
     public static void main(String args[]){
         Mastung m = new Mastung();
+        
     }
     
 }

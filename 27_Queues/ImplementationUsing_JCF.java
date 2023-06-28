@@ -1,4 +1,4 @@
-package Queues;
+
 import java.util.*;
 public class ImplementationUsing_JCF {
     public static void main(String args[]){

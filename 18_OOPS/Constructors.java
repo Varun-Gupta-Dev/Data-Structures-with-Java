@@ -1,4 +1,4 @@
-package OOPS;
+
 
 public class Constructors {
     public static void main(String args[]){
@@ -13,7 +13,7 @@ public class Constructors {
 class Student{
     String name;
     int roll;
-                                                            /*---- 
+                                                             
     Student(){ // ---> Non parametrised constructor.
         System.out.println("Constructor is called...");
     }
@@ -25,7 +25,7 @@ class Student{
     Student(int roll){ //---> Parameterised constructor.
         this.roll = roll;
     } 
-                                                                    */     
+                                                                        
 
 
     

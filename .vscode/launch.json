@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Method_Overriding",
+            "request": "launch",
+            "mainClass": "Method_Overriding",
+            "projectName": "JavaProgrammingLanguage_fe145f16"
+        },
+        {
+            "type": "java",
+            "name": "Constructors",
+            "request": "launch",
+            "mainClass": "_18_OOPS.Constructors",
+            "projectName": "JavaProgrammingLanguage_fe145f16"
+        },
+        {
+            "type": "java",
+            "name": "Copy_constructor",
+            "request": "launch",
+            "mainClass": "Copy_constructor",
+            "projectName": "JavaProgrammingLanguage_fe145f16"
+        },
+        {
+            "type": "java",
+            "name": "_6ShortestPath",
+            "request": "launch",
+            "mainClass": "Practice._6ShortestPath",
+            "projectName": "JavaProgrammingLanguage_fe145f16"
+        },
+        {
+            "type": "java",
+            "name": "_5plaicingZeroesAtEnd",
+            "request": "launch",
+            "mainClass": "Practice._5plaicingZeroesAtEnd",
+            "projectName": "JavaProgrammingLanguage_fe145f16"
+        },
+        {
+            "name": "Attach to Chrome",
+            "port": 9222,
+            "request": "attach",
+            "type": "chrome",
+            "webRoot": "${workspaceFolder}"
+        },
+        {
+            "type": "java",
+            "name": "Constructors",
+            "request": "launch",
+            "mainClass": "Constructors",
+            "projectName": "JavaProgrammingLanguage_fe145f16"
+        },
+        {
+            "type": "java",
             "name": "_6ShortestPath",
             "request": "launch",
             "mainClass": "Practice._6ShortestPath",

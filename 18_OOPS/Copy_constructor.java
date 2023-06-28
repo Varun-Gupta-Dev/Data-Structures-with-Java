@@ -31,20 +31,20 @@ class Student{
     }
 
     // Shallow Copy Constructor
-    // Student(Student s){
-    //     this.name = s.name;
-    //     this.roll = s.roll;
-    //     this.marks = s.marks;
-    // }
-
-    //Deep Copy Constructor
     Student(Student s){
-        marks = new int[3];
         this.name = s.name;
         this.roll = s.roll;
-        this.password = s.password;
-        for(int i=0; i<3; i++){
-            this.marks[i] = s.marks[i];
-        }
+        this.marks = s.marks;
     }
+
+    //Deep Copy Constructor
+    // Student(Student s){
+    //     marks = new int[3];
+    //     this.name = s.name;
+    //     this.roll = s.roll;
+    //     this.password = s.password;
+    //     for(int i=0; i<3; i++){
+    //         this.marks[i] = s.marks[i];
+    //     }
+    // }
 }
