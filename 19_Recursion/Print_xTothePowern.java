@@ -1,4 +1,4 @@
-package Recursion;
+
 
 public class Print_xTothePowern {
     public static int Power(int x, int n){ // T.C = O(n)---> Not very optimised

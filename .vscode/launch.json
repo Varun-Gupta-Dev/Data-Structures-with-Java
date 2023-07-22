@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FindFirstOccurenceOfElementInArray",
+            "request": "launch",
+            "mainClass": "FindFirstOccurenceOfElementInArray",
+            "projectName": "JavaProgrammingLanguage_fe145f16"
+        },
+        {
+            "type": "java",
+            "name": "first_occurence",
+            "request": "launch",
+            "mainClass": "Practice.first_occurence",
+            "projectName": "JavaProgrammingLanguage_fe145f16"
+        },
+        {
+            "type": "java",
+            "name": "Q5_TowerOfHanoi",
+            "request": "launch",
+            "mainClass": "Q5_TowerOfHanoi",
+            "projectName": "JavaProgrammingLanguage_fe145f16"
+        },
+        {
+            "type": "java",
+            "name": "Q1",
+            "request": "launch",
+            "mainClass": "Assignment_alpha.Q1",
+            "projectName": "JavaProgrammingLanguage_fe145f16"
+        },
+        {
+            "type": "java",
             "name": "Method_Overriding",
             "request": "launch",
             "mainClass": "Method_Overriding",

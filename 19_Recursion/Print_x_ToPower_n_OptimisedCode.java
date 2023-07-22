@@ -15,7 +15,7 @@ public class Print_x_ToPower_n_OptimisedCode {
         return halfSquare;
     }
     public static void main(String args[]){
-        System.out.println(optimisedPower(2,10));
+        System.out.println(optimisedPower(2,5));
 
     }
     

@@ -1,4 +1,4 @@
-package Recursion;
+
 
 public class TilingProblem {
     public static int tiling(int n){
@@ -15,7 +15,7 @@ public class TilingProblem {
 
     }
     public static void main(String args[]){
-        System.out.print(tiling(4));
+        System.out.print(tiling(3));
     }
     
 }
